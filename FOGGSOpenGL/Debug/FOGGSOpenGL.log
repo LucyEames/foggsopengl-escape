@@ -1,0 +1,57 @@
+﻿  Cube.cpp
+M:\Users\TriMaplenut\Desktop\FOGGSOpenGL\FOGGSOpenGL\Cube.cpp(56,29): warning C4305: '=': truncation from 'double' to 'float'
+M:\Users\TriMaplenut\Desktop\FOGGSOpenGL\FOGGSOpenGL\Cube.cpp(56,57): warning C4305: '=': truncation from 'double' to 'float'
+M:\Users\TriMaplenut\Desktop\FOGGSOpenGL\FOGGSOpenGL\Cube.cpp(56,86): warning C4305: '=': truncation from 'double' to 'float'
+M:\Users\TriMaplenut\Desktop\FOGGSOpenGL\FOGGSOpenGL\Cube.cpp(57,29): warning C4305: '=': truncation from 'double' to 'float'
+M:\Users\TriMaplenut\Desktop\FOGGSOpenGL\FOGGSOpenGL\Cube.cpp(57,57): warning C4305: '=': truncation from 'double' to 'float'
+M:\Users\TriMaplenut\Desktop\FOGGSOpenGL\FOGGSOpenGL\Cube.cpp(57,85): warning C4305: '=': truncation from 'double' to 'float'
+M:\Users\TriMaplenut\Desktop\FOGGSOpenGL\FOGGSOpenGL\Cube.cpp(63,29): warning C4305: '=': truncation from 'double' to 'float'
+M:\Users\TriMaplenut\Desktop\FOGGSOpenGL\FOGGSOpenGL\Cube.cpp(63,57): warning C4305: '=': truncation from 'double' to 'float'
+M:\Users\TriMaplenut\Desktop\FOGGSOpenGL\FOGGSOpenGL\Cube.cpp(63,85): warning C4305: '=': truncation from 'double' to 'float'
+M:\Users\TriMaplenut\Desktop\FOGGSOpenGL\FOGGSOpenGL\Cube.cpp(64,29): warning C4305: '=': truncation from 'double' to 'float'
+M:\Users\TriMaplenut\Desktop\FOGGSOpenGL\FOGGSOpenGL\Cube.cpp(64,57): warning C4305: '=': truncation from 'double' to 'float'
+M:\Users\TriMaplenut\Desktop\FOGGSOpenGL\FOGGSOpenGL\Cube.cpp(64,85): warning C4305: '=': truncation from 'double' to 'float'
+M:\Users\TriMaplenut\Desktop\FOGGSOpenGL\FOGGSOpenGL\Cube.cpp(70,29): warning C4305: '=': truncation from 'double' to 'float'
+M:\Users\TriMaplenut\Desktop\FOGGSOpenGL\FOGGSOpenGL\Cube.cpp(70,57): warning C4305: '=': truncation from 'double' to 'float'
+M:\Users\TriMaplenut\Desktop\FOGGSOpenGL\FOGGSOpenGL\Cube.cpp(70,85): warning C4305: '=': truncation from 'double' to 'float'
+M:\Users\TriMaplenut\Desktop\FOGGSOpenGL\FOGGSOpenGL\Cube.cpp(71,29): warning C4305: '=': truncation from 'double' to 'float'
+M:\Users\TriMaplenut\Desktop\FOGGSOpenGL\FOGGSOpenGL\Cube.cpp(71,86): warning C4305: '=': truncation from 'double' to 'float'
+M:\Users\TriMaplenut\Desktop\FOGGSOpenGL\FOGGSOpenGL\Cube.cpp(77,29): warning C4305: '=': truncation from 'double' to 'float'
+M:\Users\TriMaplenut\Desktop\FOGGSOpenGL\FOGGSOpenGL\Cube.cpp(77,57): warning C4305: '=': truncation from 'double' to 'float'
+M:\Users\TriMaplenut\Desktop\FOGGSOpenGL\FOGGSOpenGL\Cube.cpp(77,85): warning C4305: '=': truncation from 'double' to 'float'
+M:\Users\TriMaplenut\Desktop\FOGGSOpenGL\FOGGSOpenGL\Cube.cpp(78,29): warning C4305: '=': truncation from 'double' to 'float'
+M:\Users\TriMaplenut\Desktop\FOGGSOpenGL\FOGGSOpenGL\Cube.cpp(78,57): warning C4305: '=': truncation from 'double' to 'float'
+  Fan.cpp
+M:\Users\TriMaplenut\Desktop\FOGGSOpenGL\FOGGSOpenGL\Cube.cpp(78,85): warning C4305: '=': truncation from 'double' to 'float'
+M:\Users\TriMaplenut\Desktop\FOGGSOpenGL\FOGGSOpenGL\Fan.cpp(59,28): warning C4305: '=': truncation from 'double' to 'float'
+M:\Users\TriMaplenut\Desktop\FOGGSOpenGL\FOGGSOpenGL\Fan.cpp(59,56): warning C4305: '=': truncation from 'double' to 'float'
+M:\Users\TriMaplenut\Desktop\FOGGSOpenGL\FOGGSOpenGL\Fan.cpp(59,84): warning C4305: '=': truncation from 'double' to 'float'
+M:\Users\TriMaplenut\Desktop\FOGGSOpenGL\FOGGSOpenGL\Fan.cpp(60,28): warning C4305: '=': truncation from 'double' to 'float'
+M:\Users\TriMaplenut\Desktop\FOGGSOpenGL\FOGGSOpenGL\Fan.cpp(60,56): warning C4305: '=': truncation from 'double' to 'float'
+  GLUTCallbacks.cpp
+  HelloGL.cpp
+M:\Users\TriMaplenut\Desktop\FOGGSOpenGL\FOGGSOpenGL\Fan.cpp(60,84): warning C4305: '=': truncation from 'double' to 'float'
+M:\Users\TriMaplenut\Desktop\FOGGSOpenGL\FOGGSOpenGL\HelloGL.cpp(10,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+M:\Users\TriMaplenut\Desktop\FOGGSOpenGL\FOGGSOpenGL\HelloGL.cpp(23,13): warning C4156: deletion of an array expression without using the array form of 'delete'; array form substituted
+M:\Users\TriMaplenut\Desktop\FOGGSOpenGL\FOGGSOpenGL\HelloGL.cpp(23,13): warning C4154: deletion of an array expression; conversion to pointer supplied
+M:\Users\TriMaplenut\Desktop\FOGGSOpenGL\FOGGSOpenGL\HelloGL.cpp(24,16): warning C4156: deletion of an array expression without using the array form of 'delete'; array form substituted
+M:\Users\TriMaplenut\Desktop\FOGGSOpenGL\FOGGSOpenGL\HelloGL.cpp(24,16): warning C4154: deletion of an array expression; conversion to pointer supplied
+M:\Users\TriMaplenut\Desktop\FOGGSOpenGL\FOGGSOpenGL\HelloGL.cpp(316,29): warning C4305: '=': truncation from 'double' to 'float'
+M:\Users\TriMaplenut\Desktop\FOGGSOpenGL\FOGGSOpenGL\HelloGL.cpp(318,29): warning C4305: '=': truncation from 'double' to 'float'
+M:\Users\TriMaplenut\Desktop\FOGGSOpenGL\FOGGSOpenGL\HelloGL.cpp(319,29): warning C4305: '=': truncation from 'double' to 'float'
+M:\Users\TriMaplenut\Desktop\FOGGSOpenGL\FOGGSOpenGL\HelloGL.cpp(320,29): warning C4305: '=': truncation from 'double' to 'float'
+M:\Users\TriMaplenut\Desktop\FOGGSOpenGL\FOGGSOpenGL\HelloGL.cpp(322,30): warning C4305: '=': truncation from 'double' to 'float'
+M:\Users\TriMaplenut\Desktop\FOGGSOpenGL\FOGGSOpenGL\HelloGL.cpp(323,30): warning C4305: '=': truncation from 'double' to 'float'
+  Main.cpp
+  MeshLoader.cpp
+  SceneObject.cpp
+  Texture2D.cpp
+  Wall.cpp
+M:\Users\TriMaplenut\Desktop\FOGGSOpenGL\FOGGSOpenGL\HelloGL.cpp(324,30): warning C4305: '=': truncation from 'double' to 'float'
+M:\Users\TriMaplenut\Desktop\FOGGSOpenGL\FOGGSOpenGL\Wall.cpp(68,85): warning C4305: '=': truncation from 'double' to 'float'
+M:\Users\TriMaplenut\Desktop\FOGGSOpenGL\FOGGSOpenGL\Wall.cpp(69,28): warning C4305: '=': truncation from 'double' to 'float'
+M:\Users\TriMaplenut\Desktop\FOGGSOpenGL\FOGGSOpenGL\Wall.cpp(69,56): warning C4305: '=': truncation from 'double' to 'float'
+  Generating Code...
+M:\Users\TriMaplenut\Desktop\FOGGSOpenGL\FOGGSOpenGL\Wall.cpp(69,85): warning C4305: '=': truncation from 'double' to 'float'
+  LINK : M:\Users\TriMaplenut\Desktop\FOGGSOpenGL\Debug\FOGGSOpenGL.exe not found or not built by the last incremental link; performing full link
+  FOGGSOpenGL.vcxproj -> M:\Users\TriMaplenut\Desktop\FOGGSOpenGL\Debug\FOGGSOpenGL.exe
